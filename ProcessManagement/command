@@ -1,0 +1,5 @@
+commands for process :-
+	ps // to know which processes running in ram within kernel..
+	fg //to run process foreground..(front)
+	kill //to kill any process with using its process id //ex. kill -9 102, here 102 is pid
+
